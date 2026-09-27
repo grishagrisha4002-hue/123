@@ -1,0 +1,5 @@
+Ссылка на образ в Docker Hub:
+https://hub.docker.com/r/<ВАШ_DOCKERHUB_ЛОГИН>/qt_tcp_server
+
+Пример команды для загрузки образа:
+docker pull <ВАШ_DOCKERHUB_ЛОГИН>/qt_tcp_server:latest
